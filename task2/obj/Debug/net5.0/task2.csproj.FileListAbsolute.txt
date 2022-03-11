@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.exe
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.deps.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\bin\Debug\net5.0\task2.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\refint\task2.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\task2\obj\Debug\net5.0\ref\task2.dll
