@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.exe
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.deps.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\bin\Debug\net5.0\codes.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\refint\codes.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\codes.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\codes\obj\Debug\net5.0\ref\codes.dll

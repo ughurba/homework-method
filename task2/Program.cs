@@ -12,9 +12,9 @@ namespace task2
             //Məsələn: Repeat("Ha!") //Ha!
             //Repeat("Ha!", 2) //Ha!Ha!
             //Repeat("Ha!", 3) //Ha!Ha!Ha!
-            Console.WriteLine("ededi qeyd edin");
+            Console.WriteLine("count-u qeyd edin");
             int count = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("bir cumle ve yaxud soz yazin ");
+            Console.WriteLine("word-u qeyd edin");
             string word = Console.ReadLine();
             Repeat( word, count);
 
@@ -22,11 +22,12 @@ namespace task2
         static string Repeat(string word , int count)
         {
 
-            for (int i = 2; i < count; i++)
+            for (int i = 0; i < count; i++)
             {
-                word = word + word;
+
+                Console.Write(word);
             }
-            Console.WriteLine(word);
+            
             return word;
         }
     }

@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.exe
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.deps.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\task4_ikinci variant.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\refint\task4_ikinci variant.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\task4_ikinci variant.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\ref\task4_ikinci variant.dll

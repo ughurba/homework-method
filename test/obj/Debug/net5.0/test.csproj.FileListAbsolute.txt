@@ -1,0 +1,16 @@
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.exe
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.deps.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.runtimeconfig.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\bin\Debug\net5.0\test.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\refint\test.dll
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.pdb
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\test.genruntimeconfig.cache
+C:\Users\Clean__Laptop\Desktop\Homework-method\test\obj\Debug\net5.0\ref\test.dll

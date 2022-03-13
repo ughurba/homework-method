@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task4_ikinci variant/1.0.0": {
+        "runtime": {
+          "task4_ikinci variant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task4_ikinci variant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
