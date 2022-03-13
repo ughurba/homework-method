@@ -32,7 +32,11 @@ namespace test
                 case ConsoleKey.C:
                     Sahe();
                     break;
+                default:
 
+                    Console.WriteLine("\nsef duymeni  basdiniz");
+
+                    break;
             }
         }
         static void Sahe(double p)
